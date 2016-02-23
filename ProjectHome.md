@@ -1,0 +1,1 @@
+Just like pybuddy for the ibuddy,you can use this daemon to control the DX (dealextreme) e-buddy. It is a cheap copy of the real thing, and while it looks the same, the controls are far less sophisticated.
